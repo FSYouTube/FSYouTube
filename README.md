@@ -1,1 +1,1 @@
-By Frontend Spider
+By Frontend Spide
